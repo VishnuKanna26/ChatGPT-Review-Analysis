@@ -1,0 +1,7 @@
+
+### Key Insights
+- **Sentiment Distribution**: 76.3% of reviews are Positive, 19.5% are Neutral, and 4.1% are Negative, reflecting high overall satisfaction (mean rating 4.50 from Step 1).
+- **Subjectivity**: With an average subjectivity of 0.52, reviews are moderately opinionated, with short reviews contributing to lower subjectivity.
+- **Praised Features**: Users frequently highlight 'helpful', 'useful', 'great', 'amazing', and 'easy' (from word cloud and keywords), indicating value in education, ease of use, and performance.
+- **Criticisms**: Sample negative reviews suggest issues like 'how can this be legitimate?', 'App is not working', and 'Too many problems for a paid service, too many times of having busy servers, sometime don't even answer you, which makes me go use other AI apps, if not fixed soon, I'll be going to use those other apps permanently.' (e.g., crashes, costs, or errors), though further analysis of 1/2-star reviews is needed for confirmation.
+- **Recommendations**: Focus on improving stability and addressing cost concerns based on negative feedback.
