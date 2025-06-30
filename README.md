@@ -13,7 +13,7 @@ Using **Python in Google Colab**, this analysis generates **actionable insights*
 ## ❓ Problem Statement & Objectives
 
 - **Problem**: Understand user sentiment and feedback to identify ChatGPT’s strengths and areas for improvement.
-- **Relevance**: As a widely used tool for education, productivity, and research, user feedback is vital for OpenAI's and xAI’s strategic growth.
+- **Relevance**: As a widely used tool for education, productivity, and research, user feedback is vital for OpenAI's strategic growth.
 - **Business Question**:  
   _“What do users love about ChatGPT, and what issues do they face?”_
 - **Hypothesis**:  
@@ -40,7 +40,7 @@ Using **Python in Google Colab**, this analysis generates **actionable insights*
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/ChatGPT-Review-Analysis.git
+git clone https://github.com/VishnuKanna26/ChatGPT-Review-Analysis.git
 cd ChatGPT-Review-Analysis
 ````
 
@@ -171,11 +171,6 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to use, modify, or share it with attribution.
 
 ---
-
-## 🙏 Acknowledgments
-
-* **OpenAI / xAI** for inspiring the project.
-* **Tools**: Google Colab, Python, Pandas, TextBlob, NLTK, WordCloud, Seaborn.
 
 ---
 
